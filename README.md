@@ -21,3 +21,4 @@ This project uses a basic **Artificial Neural Network (ANN)** built with **PyTor
 
 ## 📈 Output
 - Prints training progress and final test accuracy.
+
